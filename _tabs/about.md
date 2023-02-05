@@ -17,4 +17,3 @@ order: 4
 [instagram]: https://instagram.com/lukman.baidhowi
 [linkedin]: https://linkedin.com/in/lukmanbaidhowi
 
-<img align="left" alt="lukmanbaidhowi Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukmanbaidhowi&theme=algolia&show_icons=true">
