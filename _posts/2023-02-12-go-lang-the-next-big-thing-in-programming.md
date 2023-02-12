@@ -5,7 +5,7 @@ date: 2023-02-12 09:25:00 +0700
 categories: [Blogging, Golang, Programming]
 tags: [golang, programming]
 ---
-![Desktop View](./img/golang-img.png)
+![Desktop View](/posts/img/golang-img.png)
 
 [Go](https://go.dev/), also known as Golang, is a new programming language that has been creating a buzz in the tech world for its innovative features and unmatched performance. It was created by Google in 2009 with the aim of developing a language that can address the limitations of other popular languages such as C++ and Java. Over the years, Go has managed to establish itself as one of the most popular programming languages and is widely used by companies like Dropbox, Uber, and SoundCloud.
 
